@@ -4,5 +4,5 @@ A MSF/MSBA dual degree candidate with Bachelor's degree in accounting, and will 
 # Jia Si
 A MSF/MSBA dual degree candidadate.
 
-# Xinpeng Zhang
-Business major in Brandeis University
+# Xinpeng Jin
+Business major in Brandeis University. Currently a Senior, will be applying to MSF or MSBA program.
